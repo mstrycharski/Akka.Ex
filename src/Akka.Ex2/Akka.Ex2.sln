@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.Ex2", "Akka.Ex2\Akka.Ex2.csproj", "{6274D3D8-5A6E-467B-8531-8609C02BCFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.Ex2.Client", "Akka.Ex2.Client\Akka.Ex2.Client.csproj", "{432DB33D-D087-4036-8441-D901189D0B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6274D3D8-5A6E-467B-8531-8609C02BCFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6274D3D8-5A6E-467B-8531-8609C02BCFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6274D3D8-5A6E-467B-8531-8609C02BCFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6274D3D8-5A6E-467B-8531-8609C02BCFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432DB33D-D087-4036-8441-D901189D0B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432DB33D-D087-4036-8441-D901189D0B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432DB33D-D087-4036-8441-D901189D0B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432DB33D-D087-4036-8441-D901189D0B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885FB768-1BFA-42CD-A58E-EBA2F6DD5D20}
+	EndGlobalSection
+EndGlobal
